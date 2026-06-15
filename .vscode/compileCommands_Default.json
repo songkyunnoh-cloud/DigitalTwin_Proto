@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Game Engine\\Epic Games\\Project\\DigitalTwin_Proto\\Source\\DigitalTwin_Proto\\DigitalTwin_Proto.Build.cs",
+		"arguments": [
+			"D:\\Game Engine\\Visual Studio 2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Game Engine\\Epic Games\\Project\\DigitalTwin_Proto\\.vscode\\compileCommands_Default\\DigitalTwin_Proto.1.rsp"
+		],
+		"directory": "D:\\Game Engine\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Engine\\Epic Games\\Project\\DigitalTwin_Proto\\Source\\DigitalTwin_Proto\\DigitalTwin_Proto.cpp",
+		"arguments": [
+			"D:\\Game Engine\\Visual Studio 2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Game Engine\\Epic Games\\Project\\DigitalTwin_Proto\\.vscode\\compileCommands_Default\\DigitalTwin_Proto.1.rsp"
+		],
+		"directory": "D:\\Game Engine\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Engine\\Epic Games\\Project\\DigitalTwin_Proto\\Source\\DigitalTwin_Proto\\DigitalTwin_Proto.h",
+		"arguments": [
+			"D:\\Game Engine\\Visual Studio 2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Game Engine\\Epic Games\\Project\\DigitalTwin_Proto\\.vscode\\compileCommands_Default\\DigitalTwin_Proto.1.rsp"
+		],
+		"directory": "D:\\Game Engine\\Epic Games\\UE_5.7\\Engine\\Source"
+	}
+]
